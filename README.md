@@ -7,7 +7,6 @@ Hi 👋 My name is Ahmed Selim
 Here's a longer description for your profile that details your skills, learning path, and professional mindset as a Flutter developer: "Aspiring Flutter Developer | Building Innovative Mobile Experiences" I'm a dedicated Flutter developer with a passion for creating intuitive and engaging mobile applications. As someone who is constantly expanding my knowledge, I'm currently refining my skills in responsive adaptive UI, Google Maps integration, and payment processing to ensure that I can develop comprehensive, feature-rich apps. My technical expertise includes working with Firebase for backend services, RESTful APIs for dynamic data handling, and state management using Cubit and basic BLoC. My goal is to deliver clean, maintainable code and visually appealing UI, focusing on an exceptional user experience in every project. Open to collaborating with clients who value creativity, user-centered design, and technical reliability.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Selim513&color=blue)
-![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selim513&show_icons=true&count_private=true)
 
 
 * 🌍  I'm based in Egypty
